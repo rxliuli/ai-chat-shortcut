@@ -2,6 +2,8 @@
 
 AI Chat Shortcut is a Chrome extension that streamlines access to AI assistants directly from your browser's address bar. With a simple "@chat" command, you can quickly initiate a chat with leading AI services like OpenAI, Poe, Gemini, and Claude. After entering your query and pressing Enter, you'll be seamlessly redirected to your chosen AI service, ready to continue the conversation.
 
+https://github.com/user-attachments/assets/2a95742e-dfee-4547-8295-e78c26e17917
+
 ## Features
 
 - Quick access to AI chat services using the "@chat" command in the Chrome address bar
