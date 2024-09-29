@@ -1,4 +1,4 @@
-import { defineConfig } from 'wxt'
+import { defineConfig, UserManifest } from 'wxt'
 import path from 'path'
 
 // See https://wxt.dev/api/config.html
@@ -13,7 +13,15 @@ export default defineConfig({
     omnibox: {
       keyword: '@chat',
     },
-  },
+    host_permissions: [
+      'https://chatgpt.com/',
+      'https://poe.com/',
+      'https://gemini.google.com/',
+      'https://gemini.google.com/app',
+      'https://claude.ai/',
+      'https://claude.ai/new',
+    ],
+  } as UserManifest,
   runner: {
     disabled: true,
   },
