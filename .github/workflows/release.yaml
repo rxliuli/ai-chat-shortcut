@@ -57,7 +57,7 @@ jobs:
         run: pnpm install
       - name: Zip extensions
         run: |
-          pnpm run zip
+          pnpm run zip && pnpm run zip:firefox
 
       - name: Create Release
         uses: softprops/action-gh-release@v2
