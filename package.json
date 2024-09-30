@@ -2,7 +2,7 @@
   "name": "ai-chat-shortcut",
   "description": "在搜索栏输入 @chat 立刻向你喜欢的 AI 提问，支持多种 Chat，包括 OpenAI、Claude、Gemini。",
   "private": true,
-  "version": "0.1.3",
+  "version": "0.2.0",
   "type": "module",
   "scripts": {
     "dev": "wxt",
