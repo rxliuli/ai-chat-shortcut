@@ -9,7 +9,7 @@ export default defineConfig({
     name: 'AI Chat Shortcut',
     description:
       'AI Chat Shortcut is a Browser extension that allows users to quickly access various AI chat services directly from the address bar.',
-    permissions: ['storage'],
+    permissions: ['storage', 'tabs', 'scripting'],
     omnibox: {
       keyword: '@chat',
     },
