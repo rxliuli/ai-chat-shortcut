@@ -1,5 +1,7 @@
 # AI Chat Shortcut
 
+[![chrome-web-store](https://badgen.net/chrome-web-store/v/lfmnjaeoioakcdhakobhiiogpiaainhm)](https://chromewebstore.google.com/detail/jkanoakidjoklcefakbdnnhgdenddppg) [![firefox add-ons](https://badgen.net/badge/firefox/published/red)](https://addons.mozilla.org/en-US/firefox/addon/ai-chat-shortcut/) [![producthunt](https://badgen.net/badge/producthunt/upvoted/orange)](https://www.producthunt.com/posts/ai-chat-shortcut)
+
 AI Chat Shortcut is a Chrome extension that streamlines access to AI assistants directly from your browser's address bar. With a simple "@chat" command, you can quickly initiate a chat with leading AI services like OpenAI, Poe, Gemini, and Claude. After entering your query and pressing Enter, you'll be seamlessly redirected to your chosen AI service, ready to continue the conversation.
 
 https://github.com/user-attachments/assets/2a95742e-dfee-4547-8295-e78c26e17917
@@ -13,10 +15,10 @@ https://github.com/user-attachments/assets/2a95742e-dfee-4547-8295-e78c26e17917
 
 ## Installation
 
-1. Clone this repository or download the source code.
-2. Open Chrome and navigate to `chrome://extensions`.
-3. Enable "Developer mode" in the top right corner.
-4. Click "Load unpacked" and select the directory containing the extension files.
+1. Install the extension from the [Chrome Web Store](https://chromewebstore.google.com/detail/jkanoakidjoklcefakbdnnhgdenddppg) or [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/ai-chat-shortcut/).
+2. Input "@chat" in the Chrome address bar.
+3. Input your query.
+4. Press Enter.
 
 ## Usage
 
